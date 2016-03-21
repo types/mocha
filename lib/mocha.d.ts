@@ -1,5 +1,5 @@
 /// <reference path="./global.d.ts" />
 
-declare module "mocha" {
+declare module 'mocha' {
     export = Mocha;
 }
