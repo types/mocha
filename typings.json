@@ -1,0 +1,9 @@
+{
+  "name": "mocha",
+  "ambient": true,
+  "files": [
+    "lib/global.d.ts",
+    "lib/mocha.d.ts"
+  ],
+  "homepage": "https://github.com/mochajs/mocha"
+}
