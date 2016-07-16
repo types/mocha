@@ -99,6 +99,9 @@ declare function suiteTeardown(action: () => void): void;
 
 declare function suiteTeardown(action: (done: MochaDone) => void): void;
 
+// Used with the --delay flag; see https://mochajs.org/#hooks
+declare function run(): void;
+
 declare class Mocha {
     constructor(options?: {
         grep?: RegExp;
