@@ -30,6 +30,9 @@ interface MochaSetupOptions {
 
     // grep string or regexp to filter tests with
     grep?: any;
+    
+    // emit color output
+    useColors?: boolean; 
 }
 
 interface MochaDone {
