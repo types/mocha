@@ -9,7 +9,7 @@
     "mocha": "3.2.0",
     "ts-node": "^1.6.1",
     "tslint": "github:unional/tslint",
-    "tslint-config-typings": "^0.3.0",
+    "tslint-config-typings": "^0.3.1",
     "typescript": "^2.0.6",
     "typings": "^2.0.0"
   }
