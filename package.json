@@ -10,7 +10,7 @@
     "ts-node": "^2.0.0",
     "tslint": "github:unional/tslint",
     "tslint-config-typings": "^0.3.0",
-    "typescript": "^2.0.6",
+    "typescript": "^2.1.6",
     "typings": "^2.0.0"
   }
 }
