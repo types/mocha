@@ -1,4 +1,6 @@
 {
+  "name": "@types/mocha",
+  "version": "3.4.2",
   "private": true,
   "scripts": {
     "build": "typings bundle -o out --ambient",
